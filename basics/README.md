@@ -15,4 +15,7 @@ Changes the working directory to the user's home directory without using shell v
 3-listfiles
 Displays the contents of the current directory in long format using ls -l.
 
+4-listmorefiles
+Displays all files and directories, including hidden files, in long format using ls -la.
+
 
