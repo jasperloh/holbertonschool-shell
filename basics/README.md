@@ -41,3 +41,6 @@ Lists all files, including hidden files, in the current directory, parent direct
 
 12-file_type
 Prints the type of the file /tmp/iamafile using the file command.
+
+13-symbolic_link
+Creates a symbolic link named __ls__ pointing to /bin/ls in the current working directory.
