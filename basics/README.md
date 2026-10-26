@@ -38,3 +38,6 @@ Changes the working directory to the previous working directory using cd -.
 
 11-lists
 Lists all files, including hidden files, in the current directory, parent directory, and /boot directory in long format.
+
+12-file_type
+Prints the type of the file /tmp/iamafile using the file command.
