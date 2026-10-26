@@ -21,4 +21,7 @@ Displays all files and directories, including hidden files, in long format using
 5-listfilesdigitonly
 Displays directory contents in long format, including hidden files, with numerical user and group IDs.
 
+6-firstdirectory
+Creates a directory named my_first_directory inside /tmp using the mkdir command.
+
 
