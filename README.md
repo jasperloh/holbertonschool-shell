@@ -16,3 +16,4 @@ holbertonschool-shell/
     |-- 6-firstdirectory
     |-- 7-movethatfile
     |-- 8-firstdelete
+    |-- 9-firstdirdeletion
