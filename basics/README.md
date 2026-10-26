@@ -33,4 +33,5 @@ Deletes the file betty from /tmp/my_first_directory using the rm command.
 9-firstdirdeletion
 Deletes the empty directory my_first_directory from /tmp using the rmdir command.
 
-
+10-back
+Changes the working directory to the previous working directory using cd -.
