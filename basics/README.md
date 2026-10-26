@@ -12,4 +12,7 @@ Displays the contents of the current working directory using the ls command.
 2-bring_me_home
 Changes the working directory to the user's home directory without using shell variables.
 
+3-listfiles
+Displays the contents of the current directory in long format using ls -l.
+
 
