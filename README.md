@@ -8,3 +8,4 @@ holbertonschool-shell/
 |-- basics/
     |-- README.md
     |-- 0-current_working_directory
+    |-- 1-listit
