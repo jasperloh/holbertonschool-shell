@@ -24,4 +24,6 @@ Displays directory contents in long format, including hidden files, with numeric
 6-firstdirectory
 Creates a directory named my_first_directory inside /tmp using the mkdir command.
 
+7-movethatfile
+Moves the file betty from /tmp to /tmp/my_first_directory.
 
