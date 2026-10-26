@@ -35,3 +35,6 @@ Deletes the empty directory my_first_directory from /tmp using the rmdir command
 
 10-back
 Changes the working directory to the previous working directory using cd -.
+
+11-lists
+Lists all files, including hidden files, in the current directory, parent directory, and /boot directory in long format.
