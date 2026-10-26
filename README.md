@@ -5,6 +5,6 @@ The purpose of this repository is to develop foundational skills in Linux, Unix,
 ## Repository Structure
 holbertonschool-shell/
 |-- README.md
-`-- basics/
+|-- basics/
     |-- README.md
-    `-- 0-current_working_directory
+    |-- 0-current_working_directory
