@@ -27,3 +27,7 @@ Creates a directory named my_first_directory inside /tmp using the mkdir command
 7-movethatfile
 Moves the file betty from /tmp to /tmp/my_first_directory.
 
+8-firstdelete
+Deletes the file betty from /tmp/my_first_directory using the rm command.
+
+
