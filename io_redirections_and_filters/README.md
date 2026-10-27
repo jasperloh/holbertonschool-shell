@@ -71,3 +71,14 @@ Reverses the characters of each line received from standard input using the rev 
 
 22-users_and_homes
 Displays all usernames and their home directories from /etc/passwd, sorted alphabetically by username.
+
+23-empty_casks
+Finds all empty files and directories in the current directory and its subdirectories.
+
+24-gifs
+Lists all regular files with a .gif extension in the current directory and its subdirectories.
+
+25-acrostic
+Decodes an acrostic by extracting the first character of each line from standard input.
+
+
