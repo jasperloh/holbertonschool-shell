@@ -28,5 +28,5 @@ Adds execute permission to the owner and group owner, and read permission to oth
 7-everybody
 Adds execute permission to the owner, group owner, and other users of the file hello.
 
-
-
+8-James_Bond
+Sets the permissions of hello to 007, granting all permissions to others and none to the owner or group.
