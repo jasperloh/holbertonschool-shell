@@ -39,5 +39,9 @@ Recursively deletes all regular files with a .js extension from the current dire
 11-directories
 Counts all directories and subdirectories, including hidden directories, while excluding the current and parent directories.
 
+12-newest_files
+Displays the 10 newest entries in the current directory, sorted by modification time from newest to oldest, with one entry per line.
+
+
 
 
