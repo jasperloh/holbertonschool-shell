@@ -48,4 +48,7 @@ Reads words from standard input, prints only those appearing exactly once, and s
 14-findthatword
 Displays all lines containing the pattern "root" from /etc/passwd using grep.
 
+15-countthatword
+Counts the number of lines containing the pattern "bin" in /etc/passwd using grep -c.
+
 
