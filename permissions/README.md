@@ -34,4 +34,7 @@ Sets the permissions of hello to 007, granting all permissions to others and non
 9-John_Doe
 Sets the permissions of the file hello to rwxr-x-wx (753).
 
+10-mirror_permissions
+Sets the permissions of hello to match those of olleh using chmod --reference.
+
 
