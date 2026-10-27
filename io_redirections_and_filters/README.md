@@ -30,5 +30,8 @@ Creates a file with a name containing special characters and writes "Best School
 8-cwd_state
 Writes the output of ls -la into ls_cwd_content, creating the file if necessary or overwriting its existing contents.
 
+9-duplicate_last_line
+Duplicates the last line of the file iacta by appending it to the same file.
+
 
 
