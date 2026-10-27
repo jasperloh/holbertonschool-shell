@@ -41,4 +41,7 @@ Converts a binary number stored in the environment variable BINARY from base 2 t
 12-combinations
 Prints all possible combinations of two lowercase letters from a to z in alphabetical order, excluding oo.
 
+13-print_float
+Prints the value stored in the environment variable NUM formatted to two decimal places, followed by a newline.
+
 
