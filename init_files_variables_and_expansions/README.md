@@ -11,4 +11,5 @@ Prints hello followed by the current Linux username.
 2-path
 Adds /action to the end of the PATH environment variable, making it the last directory searched for executable programs.
 
-
+3-paths
+Counts the number of directories in the PATH environment variable.
