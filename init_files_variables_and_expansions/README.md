@@ -26,4 +26,7 @@ Creates a local shell variable named BEST with the value School.
 7-create_global_variable
 Creates a global environment variable named BEST with the value School.
 
+8-true_knowledge
+Prints the result of adding 128 to the value stored in the environment variable TRUEKNOWLEDGE, followed by a newline.
+
 
