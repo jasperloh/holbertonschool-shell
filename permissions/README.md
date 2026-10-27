@@ -45,3 +45,9 @@ Creates a directory named my_dir with permissions 751.
 
 13-change_group
 Changes the group owner of the file hello to school using the chgrp command.
+
+14-change_owner_and_group
+Recursively changes the owner to vincent and group owner to staff for all files and directories in the current working directory.
+
+
+
