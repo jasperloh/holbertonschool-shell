@@ -5,3 +5,8 @@ The exercises focus on understanding how to display, redirect, and process infor
 ## Scripts
 0-hello_world
 Prints "Hello, World" followed by a newline to standard output.
+
+1-confused_smiley
+Displays the confused smiley "(Ôo)' followed by a newline.
+
+
