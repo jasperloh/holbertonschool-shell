@@ -22,3 +22,8 @@ Lists all local variables, environment variables, and shell functions.
 
 6-create_local_variable
 Creates a local shell variable named BEST with the value School.
+
+7-create_global_variable
+Creates a global environment variable named BEST with the value School.
+
+
