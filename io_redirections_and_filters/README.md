@@ -24,3 +24,6 @@ Displays the first 10 lines of the /etc/passwd file using the head command.
 6-third_line
 Displays the third line of the file iacta using head and tail without sed.
 
+7-file
+Creates a file with a name containing special characters and writes "Best School" followed by a newline.
+
