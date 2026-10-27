@@ -1,0 +1,7 @@
+## Description
+This project is part of the Holberton School Software Engineering program. It introduces Linux shell input/output (I/O) redirections, filters, and commands used to manipulate text and files.
+The exercises focus on understanding how to display, redirect, and process information using Bash commands.
+
+## Scripts
+0-hello_world
+Prints "Hello, World" followed by a newline to standard output.
