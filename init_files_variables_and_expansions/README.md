@@ -44,4 +44,7 @@ Prints all possible combinations of two lowercase letters from a to z in alphabe
 13-print_float
 Prints the value stored in the environment variable NUM formatted to two decimal places, followed by a newline.
 
+14-decimal_to_hexadecimal
+Converts a decimal number stored in the environment variable DECIMAL to lowercase hexadecimal, followed by a newline.
+
 
