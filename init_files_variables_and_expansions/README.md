@@ -29,4 +29,7 @@ Creates a global environment variable named BEST with the value School.
 8-true_knowledge
 Prints the result of adding 128 to the value stored in the environment variable TRUEKNOWLEDGE, followed by a newline.
 
+9-divide_and_rule
+Prints the result of dividing the environment variable POWER by DIVIDE, followed by a newline.
+
 
