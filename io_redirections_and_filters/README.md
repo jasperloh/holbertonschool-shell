@@ -9,4 +9,7 @@ Prints "Hello, World" followed by a newline to standard output.
 1-confused_smiley
 Displays the confused smiley "(Ôo)' followed by a newline.
 
+2-hellofile
+Displays the contents of the /etc/passwd file using the cat command.
+
 
