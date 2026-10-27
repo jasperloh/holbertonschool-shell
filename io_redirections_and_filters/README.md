@@ -18,3 +18,6 @@ Displays the contents of /etc/passwd and /etc/hosts using the cat command.
 4-lastlines
 Displays the last 10 lines of the /etc/passwd file using the tail command.
 
+5-firstlines
+Displays the first 10 lines of the /etc/passwd file using the head command.
+
