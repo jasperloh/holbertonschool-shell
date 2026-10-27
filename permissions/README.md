@@ -19,4 +19,7 @@ Changes the owner of the file hello to the user betty using the chown command.
 4-empty
 Creates an empty file named hello using the touch command.
 
+5-execute
+Adds execute permission to the owner of the file hello without modifying other permissions.
+
 
