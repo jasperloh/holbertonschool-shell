@@ -40,4 +40,7 @@ Sets the permissions of hello to match those of olleh using chmod --reference.
 11-directories_permissions
 Adds execute permission to all directories recursively for the owner, group owner, and other users.
 
+12-directory_permissions
+Creates a directory named my_dir with permissions 751.
+
 
