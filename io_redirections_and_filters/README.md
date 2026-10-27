@@ -36,5 +36,8 @@ Duplicates the last line of the file iacta by appending it to the same file.
 10-no_more_js
 Recursively deletes all regular files with a .js extension from the current directory and its subdirectories.
 
+11-directories
+Counts all directories and subdirectories, including hidden directories, while excluding the current and parent directories.
+
 
 
