@@ -17,4 +17,7 @@ Counts the number of directories in the PATH environment variable.
 4-global_variables
 Lists all environment variables and their values.
 
+5-local_variables
+Lists all local variables, environment variables, and shell functions.
+
 
