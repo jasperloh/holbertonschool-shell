@@ -69,4 +69,5 @@ Removes all occurrences of lowercase c and uppercase C from standard input using
 21-reverse
 Reverses the characters of each line received from standard input using the rev command.
 
-
+22-users_and_homes
+Displays all usernames and their home directories from /etc/passwd, sorted alphabetically by username.
