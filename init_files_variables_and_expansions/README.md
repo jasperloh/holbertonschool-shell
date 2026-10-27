@@ -35,4 +35,7 @@ Prints the result of dividing the environment variable POWER by DIVIDE, followed
 10-love_exponent_breath
 Prints the result of raising BREATH to the power of LOVE, followed by a newline.
 
+11-binary_to_decimal
+Converts a binary number stored in the environment variable BINARY from base 2 to base 10.
+
 
