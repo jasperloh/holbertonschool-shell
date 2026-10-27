@@ -22,4 +22,7 @@ Creates an empty file named hello using the touch command.
 5-execute
 Adds execute permission to the owner of the file hello without modifying other permissions.
 
+6-multiple_permissions
+Adds execute permission to the owner and group owner, and read permission to other users, without changing existing permissions.
+
 
