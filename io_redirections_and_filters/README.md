@@ -21,3 +21,6 @@ Displays the last 10 lines of the /etc/passwd file using the tail command.
 5-firstlines
 Displays the first 10 lines of the /etc/passwd file using the head command.
 
+6-third_line
+Displays the third line of the file iacta using head and tail without sed.
+
