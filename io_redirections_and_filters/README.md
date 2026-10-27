@@ -81,4 +81,8 @@ Lists all regular files with a .gif extension in the current directory and its s
 25-acrostic
 Decodes an acrostic by extracting the first character of each line from standard input.
 
+26-the_biggest_fan
+Parses web server logs in TSV format from standard input and displays the 11 most active hosts or IP addresses.
+
+
 
