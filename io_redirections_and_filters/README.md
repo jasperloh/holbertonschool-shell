@@ -27,3 +27,8 @@ Displays the third line of the file iacta using head and tail without sed.
 7-file
 Creates a file with a name containing special characters and writes "Best School" followed by a newline.
 
+8-cwd_state
+Writes the output of ls -la into ls_cwd_content, creating the file if necessary or overwriting its existing contents.
+
+
+
