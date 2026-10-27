@@ -49,5 +49,8 @@ Changes the group owner of the file hello to school using the chgrp command.
 14-change_owner_and_group
 Recursively changes the owner to vincent and group owner to staff for all files and directories in the current working directory.
 
+15-symbolic_link_permissions
+Changes the owner of the symbolic link _hello to vincent and its group owner to staff without changing the ownership of the target file.
+
 
 
