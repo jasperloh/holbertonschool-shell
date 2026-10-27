@@ -45,4 +45,7 @@ Displays the 10 newest entries in the current directory, sorted by modification 
 13-unique
 Reads words from standard input, prints only those appearing exactly once, and sorts them alphabetically.
 
+14-findthatword
+Displays all lines containing the pattern "root" from /etc/passwd using grep.
+
 
