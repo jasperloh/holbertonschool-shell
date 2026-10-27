@@ -37,4 +37,7 @@ Sets the permissions of the file hello to rwxr-x-wx (753).
 10-mirror_permissions
 Sets the permissions of hello to match those of olleh using chmod --reference.
 
+11-directories_permissions
+Adds execute permission to all directories recursively for the owner, group owner, and other users.
+
 
