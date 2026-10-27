@@ -42,6 +42,7 @@ Counts all directories and subdirectories, including hidden directories, while e
 12-newest_files
 Displays the 10 newest entries in the current directory, sorted by modification time from newest to oldest, with one entry per line.
 
-
+13-unique
+Reads words from standard input, prints only those appearing exactly once, and sorts them alphabetically.
 
 
