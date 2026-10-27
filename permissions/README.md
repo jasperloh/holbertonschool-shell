@@ -13,4 +13,7 @@ Prints the effective username of the current user using the whoami command.
 2-groups
 Prints all the groups the current user belongs to using the groups command.
 
+3-new_owner
+Changes the owner of the file hello to the user betty using the chown command.
+
 
