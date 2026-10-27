@@ -51,4 +51,5 @@ Displays all lines containing the pattern "root" from /etc/passwd using grep.
 15-countthatword
 Counts the number of lines containing the pattern "bin" in /etc/passwd using grep -c.
 
-
+16-whatsnext
+Displays lines containing "root" and the 3 lines following each match in /etc/passwd.
