@@ -53,3 +53,6 @@ Counts the number of lines containing the pattern "bin" in /etc/passwd using gre
 
 16-whatsnext
 Displays lines containing "root" and the 3 lines following each match in /etc/passwd.
+
+17-hidethisword
+Displays all lines in /etc/passwd that do not contain the pattern "bin" using grep -v.
