@@ -12,4 +12,5 @@ Displays the confused smiley "(Ôo)' followed by a newline.
 2-hellofile
 Displays the contents of the /etc/passwd file using the cat command.
 
-
+3-twofiles
+Displays the contents of /etc/passwd and /etc/hosts using the cat command.
