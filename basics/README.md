@@ -54,4 +54,5 @@ Moves all files beginning with an uppercase letter from the current working dire
 16-clean_emacs
 Deletes files in the current working directory whose names end with ~.
 
-
+17-tree
+Creates the nested directories welcome/, welcome/to/, and welcome/to/school/ using mkdir -p.
