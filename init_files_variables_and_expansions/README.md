@@ -38,4 +38,7 @@ Prints the result of raising BREATH to the power of LOVE, followed by a newline.
 11-binary_to_decimal
 Converts a binary number stored in the environment variable BINARY from base 2 to base 10.
 
+12-combinations
+Prints all possible combinations of two lowercase letters from a to z in alphabetical order, excluding oo.
+
 
