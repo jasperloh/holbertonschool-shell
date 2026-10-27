@@ -56,3 +56,6 @@ Displays lines containing "root" and the 3 lines following each match in /etc/pa
 
 17-hidethisword
 Displays all lines in /etc/passwd that do not contain the pattern "bin" using grep -v.
+
+18-letteronly
+Displays all lines from /etc/ssh/sshd_config that begin with an uppercase or lowercase letter.
