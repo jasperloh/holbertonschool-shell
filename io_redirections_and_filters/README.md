@@ -66,4 +66,7 @@ Replaces all occurrences of A with Z and c with e from standard input using the 
 20-hiago
 Removes all occurrences of lowercase c and uppercase C from standard input using tr -d.
 
+21-reverse
+Reverses the characters of each line received from standard input using the rev command.
+
 
