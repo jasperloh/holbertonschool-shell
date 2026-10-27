@@ -62,3 +62,8 @@ Displays all lines from /etc/ssh/sshd_config that begin with an uppercase or low
 
 19-AZ
 Replaces all occurrences of A with Z and c with e from standard input using the tr command.
+
+20-hiago
+Removes all occurrences of lowercase c and uppercase C from standard input using tr -d.
+
+
