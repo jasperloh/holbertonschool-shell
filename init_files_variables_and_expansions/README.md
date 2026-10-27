@@ -32,4 +32,7 @@ Prints the result of adding 128 to the value stored in the environment variable 
 9-divide_and_rule
 Prints the result of dividing the environment variable POWER by DIVIDE, followed by a newline.
 
+10-love_exponent_breath
+Prints the result of raising BREATH to the power of LOVE, followed by a newline.
+
 
