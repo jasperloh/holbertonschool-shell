@@ -33,5 +33,8 @@ Writes the output of ls -la into ls_cwd_content, creating the file if necessary 
 9-duplicate_last_line
 Duplicates the last line of the file iacta by appending it to the same file.
 
+10-no_more_js
+Recursively deletes all regular files with a .js extension from the current directory and its subdirectories.
+
 
 
