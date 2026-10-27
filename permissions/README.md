@@ -1,0 +1,7 @@
+## Description
+This project introduces Linux file permissions, user management, and ownership concepts as part of the Holberton School Software Engineering program.
+The exercises focus on understanding how Linux manages access to files and directories through users, groups, and permissions.
+
+## Scripts 
+0-iam_betty
+Switches the current user to the user betty using the su command.
